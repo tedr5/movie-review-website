@@ -11,7 +11,7 @@ A web application for browsing and reviewing movies, facilitating user decision-
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-review-website.git
+   git clone https://github.com/tedr5/movie-review-website.git
 2. Import/Create the SQL schema into your MySQL database using PhpMyAdmin.
 2. Update database connection settings in `bd.php`.
 3. Serve the application using a local server (e.g., XAMPP, WAMP).
